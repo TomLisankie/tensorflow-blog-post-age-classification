@@ -1,0 +1,6 @@
+data/blogs/xml-data/*
+data/blogs/json-data/*
+data/embeddings/*
+.DS_Store
+data/.DS_Store
+data/blogs/.DS_Store
